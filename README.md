@@ -1,1 +1,1 @@
-# elastic_example
+# Study for elastic search
